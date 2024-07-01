@@ -48,7 +48,7 @@ This project describes how to set up a connection between Power BI and Microsoft
    - Client Secret
    - Tenant ID
 4. In the Power Query Editor, click on New Source and "Blank Query".
-5. In the Advanced Editor window, paste the query code. The code can be found in the `intune_query.pq` file in this repository. 
+5. In the Advanced Editor window, paste the query code. The code can be found in the `IntuneDateExtractor.pq` file in this repository. 
 
 ![Power BI Parameters](pictures/power_bi_parameters_image.png)
 
